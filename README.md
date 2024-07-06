@@ -7,5 +7,6 @@ Requirements:<br>
 4. Use CSS to style the page.
 <br>
 Design Mockup website: TurtleBowl<br>
+Design resource and idea: https://www.figma.com/design/kL3m0O3PvV3YerInJOSxUl/Really-Flatten-Vectors-(Community)?node-id=0-1&t=MeB4sNsdOL7VETss-1 <br>
 Designed using: HTML/CSS-Bootstrap/Js <br>
 Deployment: https://akkris7.github.io/TBH-Assessment/
